@@ -25,7 +25,7 @@ Unlike bind shells, which require open ports on the target, reverse shells initi
 ## 🛠️ Technology Stack
 
 | Component   | Details                                                                            |
-|-------------|-------------------------------------------------------------------------------------|
+|-------------|------------------------------------------------------------------------------------|
 | Language    | Python 3                                                                           |
 | Libraries   | `socket`, `os`, `subprocess`, `threading`, `base64`, `json` (for structured comms) |
 | OS Support  | Linux, Windows, macOS                                                              |
