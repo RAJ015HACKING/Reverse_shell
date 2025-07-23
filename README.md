@@ -15,7 +15,8 @@ Unlike bind shells, which require open ports on the target, reverse shells initi
 - 📡 **Reverse TCP Connectivity** (client connects to server)
 - 💻 **Command Execution** (run shell commands remotely)
 - 📂 **File Upload/Download Support**
-- 🔁 **Persistent Loop** (interactive shell)
+- 📸 **Take Picture/Screenshots**
+- 🧠 **Gathers OS information**
 - 🔒 **Customizable Port & Host Settings**
 - 🧵 **Multithreaded Listener (optional enhancement)**
 
